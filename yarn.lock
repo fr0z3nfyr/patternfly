@@ -1212,12 +1212,12 @@
     acorn-static-class-features "^1.0.0"
     astring "^1.7.5"
 
-"@patternfly/patternfly-a11y@4.2.1":
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/@patternfly/patternfly-a11y/-/patternfly-a11y-4.2.1.tgz#5bfd4c246c9222a4f0c192f922e71d71e2a3062d"
-  integrity sha512-tu0/ecztLqQOp+GG/jOh5aqtq8TAJXhymnBbV2BY+RPZfl1cwk1s/MAR0ukfmqz/UJ/EfHhFKp9F5ZdHym8D8Q==
+"@patternfly/patternfly-a11y@4.2.2":
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/@patternfly/patternfly-a11y/-/patternfly-a11y-4.2.2.tgz#5f805cdd050100210686734215403175da0d059d"
+  integrity sha512-GOEHqV0ALHFs1AwzGJjwtmuqo8VO8aVYFtuBp9KpSg2kLZHXP28X4fAlc3P8mY66PO0kV7nTjcBc6Wic9WQ3QQ==
   dependencies:
-    axe-core "^4.3.2"
+    axe-core "^4.4.1"
     chromedriver "^85.0.1"
     commander "^5.1.0"
     fs-extra "^10.0.0"
@@ -2312,10 +2312,10 @@ aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.11.0.tgz#d61f46d83b2519250e2784daf5b09479a8b41c59"
   integrity sha512-xh1Rl34h6Fi1DC2WWKfxUTVqRsNnr6LsKz2+hfwDxQJWmrx8+c7ylaqBMcHfl1U1r2dsifOvKX3LQuLNZ+XSvA==
 
-axe-core@^4.3.2:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.3.3.tgz#b55cd8e8ddf659fe89b064680e1c6a4dceab0325"
-  integrity sha512-/lqqLAmuIPi79WYfRpy2i8z+x+vxU3zX2uAm0gs1q52qTuKwolOj1P8XbufpXcsydrpKx2yGn2wzAnxCMV86QA==
+axe-core@^4.4.1:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.4.2.tgz#dcf7fb6dea866166c3eab33d68208afe4d5f670c"
+  integrity sha512-LVAaGp/wkkgYJcjmHsoKx4juT1aQvJyPcW09MLCjVTh3V2cc6PnyempiLMNH5iMdfIX/zdbjUx2KDjMLCTdPeA==
 
 axios@^0.18.1:
   version "0.18.1"
